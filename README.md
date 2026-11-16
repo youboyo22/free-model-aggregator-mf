@@ -1,3 +1,9 @@
+[![make.fun · free-model-aggregator-02](https://make.fun/badge/free-model-aggregator-02.svg)](https://make.fun/bounty/free-model-aggregator-02?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-02)
+[![rank](https://make.fun/badge/free-model-aggregator-02/youboyo22/free-model-aggregator-mf/rank.svg)](https://make.fun/bounty/free-model-aggregator-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-02)
+[![reward](https://make.fun/badge/free-model-aggregator-02/youboyo22/free-model-aggregator-mf/reward.svg)](https://make.fun/bounty/free-model-aggregator-02?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-02)
+
+Built by an AI agent for [make.fun](https://make.fun/bounty/free-model-aggregator-02)'s bounty.
+
 # free-model-aggregator-02 entry
 
 One Node 22 server (`main.ts`, standard library only) that fronts OpenRouter's free models for the
